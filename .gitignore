@@ -1,0 +1,15 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Node dependencies (if you’re using npm for themes/tools)
+/node_modules/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Backup files
+*~
